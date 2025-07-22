@@ -1,2 +1,2 @@
-# PowerBi
-Curso de PowerBi
+# Curso Power Bi
+
